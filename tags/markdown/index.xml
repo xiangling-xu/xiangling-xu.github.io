@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Markdown | Hugo Academic CV Theme</title><link>https://example.com/tags/markdown/</link><atom:link href="https://example.com/tags/markdown/index.xml" rel="self" type="application/rss+xml"/><description>Markdown</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url><title>Markdown</title><link>https://example.com/tags/markdown/</link></image><item><title>🎉 Easily create your own simple yet highly customizable blog</title><link>https://example.com/post/get-started/</link><pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/post/get-started/</guid><description>&lt;p>Welcome 👋&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Markdown | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/tags/markdown/</link><atom:link href="https://xiangling-xu.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml"/><description>Markdown</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/icon_hu_982c5d63a71b2961.png</url><title>Markdown</title><link>https://xiangling-xu.github.io/tags/markdown/</link></image><item><title>🎉 Easily create your own simple yet highly customizable blog</title><link>https://xiangling-xu.github.io/post/get-started/</link><pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/post/get-started/</guid><description>&lt;p>Welcome 👋&lt;/p>
 &lt;details class="print:hidden xl:hidden" open>
 &lt;summary>Table of Contents&lt;/summary>
 &lt;div class="text-sm">
@@ -94,7 +94,7 @@ for your site. Themes are fully customizable.&lt;/p>
 &lt;p>Copyright 2016-present
 .&lt;/p>
 &lt;p>Released under the
-license.&lt;/p></description></item><item><title>Pandas</title><link>https://example.com/project/pandas/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/project/pandas/</guid><description>&lt;p>Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p></description></item><item><title>PyTorch</title><link>https://example.com/project/pytorch/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/project/pytorch/</guid><description>&lt;p>PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p></description></item><item><title>scikit-learn</title><link>https://example.com/project/scikit/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/project/scikit/</guid><description>&lt;p>scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p></description></item><item><title>🧠 Sharpen your thinking with a second brain</title><link>https://example.com/post/second-brain/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/post/second-brain/</guid><description>&lt;p>Create a personal knowledge base and share your knowledge with your peers.&lt;/p>
+license.&lt;/p></description></item><item><title>Pandas</title><link>https://xiangling-xu.github.io/project/pandas/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/project/pandas/</guid><description>&lt;p>Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p></description></item><item><title>PyTorch</title><link>https://xiangling-xu.github.io/project/pytorch/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/project/pytorch/</guid><description>&lt;p>PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p></description></item><item><title>scikit-learn</title><link>https://xiangling-xu.github.io/project/scikit/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/project/scikit/</guid><description>&lt;p>scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p></description></item><item><title>🧠 Sharpen your thinking with a second brain</title><link>https://xiangling-xu.github.io/post/second-brain/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/post/second-brain/</guid><description>&lt;p>Create a personal knowledge base and share your knowledge with your peers.&lt;/p>
 &lt;p>Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p>
 &lt;p>Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p>
 &lt;p>Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.&lt;/p>
@@ -194,7 +194,7 @@ console.log('code block');
 &lt;/span>
 &lt;span class="dark:text-neutral-300">A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/span>
 &lt;/div>
-&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h2></description></item><item><title>👩🏼‍🏫 Teach academic courses</title><link>https://example.com/post/teach-courses/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/post/teach-courses/</guid><description>&lt;p>
+&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h2></description></item><item><title>👩🏼‍🏫 Teach academic courses</title><link>https://xiangling-xu.github.io/post/teach-courses/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/post/teach-courses/</guid><description>&lt;p>
 is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p>
 &lt;p>&lt;strong>Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong>&lt;/p>
 &lt;p>On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p>
@@ -204,10 +204,10 @@ is designed to give technical content creators a seamless experience. You can fo
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="font-bold">
-Alex Johnson&lt;/span>
+Xiangling Xu 许湘灵&lt;/span>
 &lt;/span>
 (2019).
-&lt;a href="https://example.com/publication/preprint/" class="underline">An example preprint / working paper&lt;/a>.
+&lt;a href="https://xiangling-xu.github.io/publication/preprint/" class="underline">An example preprint / working paper&lt;/a>.
 &lt;div class="flex flex-wrap space-x-3">
 &lt;a class="hb-attachment-link hb-attachment-link-small" href="https://arxiv.org/abs/1512.04133v1" target="_blank" rel="noopener">
 &lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
@@ -221,15 +221,15 @@ Code
 &lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.75 3v11.25A2.25 2.25 0 0 0 6 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0 1 18 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5M9 11.25v1.5M12 9v3.75m3-6v6"/>&lt;/svg>
 Slides
 &lt;/a>
-&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://example.com/#" >
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://xiangling-xu.github.io/#" >
 &lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125"/>&lt;/svg>
 Dataset
 &lt;/a>
-&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://example.com/#" >
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://xiangling-xu.github.io/#" >
 &lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m2.25 15.75l5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5m10.5-11.25h.008v.008h-.008zm.375 0a.375.375 0 1 1-.75 0a.375.375 0 0 1 .75 0"/>&lt;/svg>
 Poster
 &lt;/a>
-&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://example.com/#" >
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://xiangling-xu.github.io/#" >
 &lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
 Source Document
 &lt;/a>
@@ -252,7 +252,7 @@ Preprint
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="font-bold">
-Alex Johnson&lt;/span>&lt;span class="relative inline-block ml-1" x-data="{ tooltip: false }">
+Xiangling Xu 许湘灵&lt;/span>&lt;span class="relative inline-block ml-1" x-data="{ tooltip: false }">
 &lt;button
 @mouseenter="tooltip = true"
 @mouseleave="tooltip = false"
@@ -314,10 +314,10 @@ Equal contribution
 &lt;/span>
 &lt;/span>
 (2013).
-&lt;a href="https://example.com/publication/conference-paper/" class="underline">An example conference paper&lt;/a>.
+&lt;a href="https://xiangling-xu.github.io/publication/conference-paper/" class="underline">An example conference paper&lt;/a>.
 In &lt;em>ICW&lt;/em>.
 &lt;div class="flex flex-wrap space-x-3">
-&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://example.com/" >
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://xiangling-xu.github.io/" >
 &lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
 PDF
 &lt;/a>
@@ -341,7 +341,7 @@ Source Document
 &lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z"/>&lt;/svg>
 Video
 &lt;/a>
-&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://example.com/publication/conference-paper/conference-paper.pdf" >
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://xiangling-xu.github.io/publication/conference-paper/conference-paper.pdf" >
 &lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
 PDF
 &lt;/a>
@@ -377,7 +377,7 @@ DOI
 &lt;/code>&lt;/pre>
 &lt;p>Try it out:&lt;/p>
 &lt;audio controls >
-&lt;source src="https://example.com/post/teach-courses/ambient-piano.mp3" type="audio/mpeg">
+&lt;source src="https://xiangling-xu.github.io/post/teach-courses/ambient-piano.mp3" type="audio/mpeg">
 &lt;/audio>
 &lt;h2 id="test-students">Test students&lt;/h2>
 &lt;p>Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code>spoiler&lt;/code> shortcode:&lt;/p>
@@ -429,7 +429,7 @@ data.head()
 &lt;span class="inline-block pr-1">
 &lt;svg style="height: 1em; transform: translateY(0.1em);" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512" fill="currentColor">&lt;path d="M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z"/>&lt;/svg>
 &lt;/span> Python&lt;/p>
-&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h2></description></item><item><title>✅ Manage your projects</title><link>https://example.com/post/project-management/</link><pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/post/project-management/</guid><description>&lt;p>Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p>
+&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h2></description></item><item><title>✅ Manage your projects</title><link>https://xiangling-xu.github.io/post/project-management/</link><pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/post/project-management/</guid><description>&lt;p>Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p>
 &lt;h2 id="ideation">Ideation&lt;/h2>
 &lt;p>Hugo Blox supports a Markdown extension for mindmaps.&lt;/p>
 &lt;p>Simply insert a Markdown code block labelled as &lt;code>markmap&lt;/code> and optionally set the height of the mindmap as shown in the example below.&lt;/p>
