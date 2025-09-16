@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bilocal Factorisation | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/tags/bilocal-factorisation/</link><atom:link href="https://xiangling-xu.github.io/tags/bilocal-factorisation/index.xml" rel="self" type="application/rss+xml"/><description>Bilocal Factorisation</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/sharing.png</url><title>Bilocal Factorisation</title><link>https://xiangling-xu.github.io/tags/bilocal-factorisation/</link></image><item><title>Characterizing quantum bilocal networks with generalized NPA hierarchies</title><link>https://xiangling-xu.github.io/conference/bilocal_npa/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/bilocal_npa/</guid><description>&lt;!--
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bilocal Factorisation | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/tags/bilocal-factorisation/</link><atom:link href="https://xiangling-xu.github.io/tags/bilocal-factorisation/index.xml" rel="self" type="application/rss+xml"/><description>Bilocal Factorisation</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/sharing.png</url><title>Bilocal Factorisation</title><link>https://xiangling-xu.github.io/tags/bilocal-factorisation/</link></image><item><title>Characterizing quantum bilocal networks with generalized NPA hierarchies</title><link>https://xiangling-xu.github.io/conference/bilocal-npa/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/bilocal-npa/</guid><description>&lt;!--
 &lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
 &lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
 &lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
@@ -7,22 +7,27 @@
 &lt;/div> -->
 &lt;div class="talk-multi-venues">
 &lt;style>
-/* Smaller superscript refs (the little numbers in-text) */
-.talk-multi-venues a[role="doc-noteref"],
-.talk-multi-venues sup.footnote-ref {
-font-size: .75em;
+/* Smaller inline footnote refs (beats .prose defaults) */
+.prose .talk-multi-venues sup.footnote-ref,
+.prose .talk-multi-venues sup > a[role="doc-noteref"],
+.prose .talk-multi-venues a[role="doc-noteref"] {
+font-size: 0.70em !important;
+line-height: 1;
+text-decoration: none;
 }
-/* Smaller footnote block at the bottom + muted color */
-.talk-multi-venues .footnotes {
-font-size: .9rem;
+/* Footnotes list at bottom: smaller + muted */
+.prose .talk-multi-venues section.footnotes,
+.prose .talk-multi-venues .footnotes {
+font-size: 0.80rem !important; /* adjust to taste */
 color: #6b7280; /* gray-500 */
 }
-.talk-multi-venues .footnotes hr { display: none; }
+.prose .talk-multi-venues section.footnotes hr,
+.prose .talk-multi-venues .footnotes hr { display: none; }
 &lt;/style>
 &lt;p class="text-sm text-gray-500 dark:text-gray-400">
-This talk has been presented at multiple venues. The date above is set to the most recent instance for correct ordering in the Talks list.
+This talk has been presented at multiple venues. The date above is set to the most recent instance for correct ordering in the Talks list. Materials (slides/poster) are shared with minor venue-specific tweaks.
 &lt;/p>
-&lt;h2 id="talks-given">Talks given&lt;/h2>
+&lt;h1 id="talks">Talks&lt;/h1>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -53,7 +58,7 @@ This talk has been presented at multiple venues. The date above is set to the mo
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;h2 id="poster-sessions">Poster sessions&lt;/h2>
+&lt;h1 id="poster-sessions">Poster sessions&lt;/h1>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -76,6 +81,32 @@ This talk has been presented at multiple venues. The date above is set to the mo
 &lt;/tbody>
 &lt;/table>
 &lt;p>&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-full" >
+&lt;img alt="WAQ (We are quantum) at Paris, France"
+srcset="https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov_hu_c7f732f8b49a6b56.webp 320w, https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov_hu_a546dcbcb37f8cd3.webp 480w, https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov_hu_b72e45ff4673aee6.webp 650w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov_hu_c7f732f8b49a6b56.webp"
+width="650"
+height="509"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-full" >
+&lt;img alt="YQIS24 at Paris, France"
+srcset="https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov_hu_4e4fee5f0d859c69.webp 320w, https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov_hu_e515dc5a31bceee1.webp 480w, https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov_hu_4473a299eae80f4f.webp 650w"
+sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
+src="https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov_hu_4e4fee5f0d859c69.webp"
+width="650"
+height="487"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;/div>
 &lt;div class="footnotes" role="doc-endnotes">
 &lt;hr>
