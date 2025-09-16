@@ -5,14 +5,28 @@
 &lt;/span>
 &lt;span class="dark:text-neutral-300">&lt;/span>
 &lt;/div> -->
+&lt;div class="talk-multi-venues">
+&lt;style>
+/* Smaller superscript refs (the little numbers in-text) */
+.talk-multi-venues a[role="doc-noteref"],
+.talk-multi-venues sup.footnote-ref {
+font-size: .75em;
+}
+/* Smaller footnote block at the bottom + muted color */
+.talk-multi-venues .footnotes {
+font-size: .9rem;
+color: #6b7280; /* gray-500 */
+}
+.talk-multi-venues .footnotes hr { display: none; }
+&lt;/style>
 &lt;p class="text-sm text-gray-500 dark:text-gray-400">
-This talk has been presented at multiple venues. The date above is set to the most recent instance for correct ordering in the Talks list. Materials (slides/poster) are shared with minor venue-specific tweaks.
+This talk has been presented at multiple venues. The date above is set to the most recent instance for correct ordering in the Talks list.
 &lt;/p>
-&lt;h3 id="talks">Talks&lt;/h3>
+&lt;h2 id="talks-given">Talks given&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>Date (YYYY-MM)&lt;/th>
+&lt;th>Date&lt;/th>
 &lt;th>Event&lt;/th>
 &lt;th>Host / Location&lt;/th>
 &lt;th>Type&lt;/th>
@@ -23,30 +37,29 @@ This talk has been presented at multiple venues. The date above is set to the mo
 &lt;td>2024-09&lt;/td>
 &lt;td>&lt;strong>CausalWorlds&lt;/strong>&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/td>
 &lt;td>Perimeter Institute, Waterloo (CA)&lt;/td>
-&lt;td>Contributed talk&lt;/td>
+&lt;td>Contributed&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2023-11&lt;/td>
 &lt;td>&lt;strong>Defi EQIP&lt;/strong>&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/td>
 &lt;td>Inria Lyon, Lyon (FR)&lt;/td>
-&lt;td>Contributed talk&lt;/td>
+&lt;td>Contributed&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2023-10&lt;/td>
 &lt;td>&lt;strong>Saclay Quantum Seminar&lt;/strong>&lt;/td>
 &lt;td>Inria Saclay, Palaiseau (FR)&lt;/td>
-&lt;td>Invited talk&lt;/td>
+&lt;td>Invited&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;h3 id="posters">Posters&lt;/h3>
+&lt;h2 id="poster-sessions">Poster sessions&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>Date (YYYY-MM)&lt;/th>
+&lt;th>Date&lt;/th>
 &lt;th>Event&lt;/th>
 &lt;th>Host / Location&lt;/th>
-&lt;th>Type&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
@@ -54,34 +67,33 @@ This talk has been presented at multiple venues. The date above is set to the mo
 &lt;td>2024-11&lt;/td>
 &lt;td>&lt;strong>YQIS24&lt;/strong>&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/td>
 &lt;td>Inria Paris, Paris (FR)&lt;/td>
-&lt;td>Poster&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2024-11&lt;/td>
 &lt;td>&lt;strong>GDR TeQ 2024&lt;/strong>&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/td>
 &lt;td>Sorbonne University, Paris (FR)&lt;/td>
-&lt;td>Poster&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;p>&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/p>
+&lt;/div>
 &lt;div class="footnotes" role="doc-endnotes">
 &lt;hr>
 &lt;ol>
 &lt;li id="fn:1">
-&lt;p>Event site:
+&lt;p>
 &amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:2">
-&lt;p>Event site:
+&lt;p>
 &amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:3">
-&lt;p>Event site:
+&lt;p>
 &amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:4">
-&lt;p>Event site:
+&lt;p>
 &amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
