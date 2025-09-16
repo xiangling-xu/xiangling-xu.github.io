@@ -15,7 +15,94 @@ feature and link using the &lt;code>slides&lt;/code> parameter in the front matt
 &lt;p>Further event details, including
 such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>🎉 The beginning of this website</title><link>https://xiangling-xu.github.io/post/first-post-15-09-2025/</link><pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/post/first-post-15-09-2025/</guid><description>&lt;p>As an &amp;ldquo;entertainment&amp;rdquo; to amuses myself after two weeks of continuously working, for two submissions of QIP, I decided to make a website through GitHub.&lt;/p>
 &lt;p>My programming skill is long gone for at least five years. Took me a long time trying to figure out this Hugo + GitHub mess. But once it is sorted out, it is sorted out, phew. Rather late in the night now.&lt;/p>
-&lt;p>愿功夫不负有心人吧。&lt;/p></description></item><item><title>Quantitative Quantum Soundness for Bipartite Compiled Bell Games via the Sequential NPA Hierarchy</title><link>https://xiangling-xu.github.io/publication/klep-2025-quantitativequantumsoundnessbipartite/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/klep-2025-quantitativequantumsoundnessbipartite/</guid><description/></item><item><title>Quantitative Tsirelson's Theorems via Approximate Schur's Lemma and Probabilistic Stampfli's Theorems</title><link>https://xiangling-xu.github.io/publication/xu-2025-quantitativetsirelsonstheoremsapproximate/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/xu-2025-quantitativetsirelsonstheoremsapproximate/</guid><description/></item><item><title>Projects</title><link>https://xiangling-xu.github.io/projects/</link><pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/projects/</guid><description/></item><item><title>Two convergent NPA-like hierarchies for the quantum bilocal scenario</title><link>https://xiangling-xu.github.io/publication/renou-2024-convergentnpalikehierarchiesquantum/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/renou-2024-convergentnpalikehierarchiesquantum/</guid><description/></item><item><title>Pandas</title><link>https://xiangling-xu.github.io/project/pandas/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/project/pandas/</guid><description>&lt;p>Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p></description></item><item><title>PyTorch</title><link>https://xiangling-xu.github.io/project/pytorch/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/project/pytorch/</guid><description>&lt;p>PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p></description></item><item><title>scikit-learn</title><link>https://xiangling-xu.github.io/project/scikit/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/project/scikit/</guid><description>&lt;p>scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p></description></item><item><title>Experience</title><link>https://xiangling-xu.github.io/experience/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/experience/</guid><description/></item><item><title>Learn JavaScript</title><link>https://xiangling-xu.github.io/teaching/js/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/teaching/js/</guid><description>&lt;p>
+&lt;p>愿功夫不负有心人吧。&lt;/p></description></item><item><title>Quantitative Quantum Soundness for Bipartite Compiled Bell Games via the Sequential NPA Hierarchy</title><link>https://xiangling-xu.github.io/publication/klep-2025-quantitativequantumsoundnessbipartite/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/klep-2025-quantitativequantumsoundnessbipartite/</guid><description/></item><item><title>Quantitative Tsirelson's Theorems via Approximate Schur's Lemma and Probabilistic Stampfli's Theorems</title><link>https://xiangling-xu.github.io/publication/xu-2025-quantitativetsirelsonstheoremsapproximate/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/xu-2025-quantitativetsirelsonstheoremsapproximate/</guid><description/></item><item><title>Characterizing quantum bilocal networks with generalized NPA hierarchies</title><link>https://xiangling-xu.github.io/conference/bilocal_npa/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/bilocal_npa/</guid><description>&lt;!--
+&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
+&lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
+&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
+&lt;/span>
+&lt;span class="dark:text-neutral-300">&lt;/span>
+&lt;/div> -->
+&lt;p class="text-sm text-gray-500 dark:text-gray-400">
+This talk has been presented at multiple venues. The date above is set to the most recent instance for correct ordering in the Talks list. Materials (slides/poster) are shared with minor venue-specific tweaks.
+&lt;/p>
+&lt;h3 id="talks">Talks&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Date (YYYY-MM)&lt;/th>
+&lt;th>Event&lt;/th>
+&lt;th>Host / Location&lt;/th>
+&lt;th>Type&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2024-09&lt;/td>
+&lt;td>&lt;strong>CausalWorlds&lt;/strong>&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/td>
+&lt;td>Perimeter Institute, Waterloo (CA)&lt;/td>
+&lt;td>Contributed talk&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2023-11&lt;/td>
+&lt;td>&lt;strong>Defi EQIP&lt;/strong>&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/td>
+&lt;td>Inria Lyon, Lyon (FR)&lt;/td>
+&lt;td>Contributed talk&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2023-10&lt;/td>
+&lt;td>&lt;strong>Saclay Quantum Seminar&lt;/strong>&lt;/td>
+&lt;td>Inria Saclay, Palaiseau (FR)&lt;/td>
+&lt;td>Invited talk&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="posters">Posters&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Date (YYYY-MM)&lt;/th>
+&lt;th>Event&lt;/th>
+&lt;th>Host / Location&lt;/th>
+&lt;th>Type&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2024-11&lt;/td>
+&lt;td>&lt;strong>YQIS24&lt;/strong>&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/td>
+&lt;td>Inria Paris, Paris (FR)&lt;/td>
+&lt;td>Poster&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2024-11&lt;/td>
+&lt;td>&lt;strong>GDR TeQ 2024&lt;/strong>&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/td>
+&lt;td>Sorbonne University, Paris (FR)&lt;/td>
+&lt;td>Poster&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>Event site:
+&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>Event site:
+&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>Event site:
+&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>Event site:
+&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Projects</title><link>https://xiangling-xu.github.io/projects/</link><pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/projects/</guid><description/></item><item><title>Two convergent NPA-like hierarchies for the quantum bilocal scenario</title><link>https://xiangling-xu.github.io/publication/renou-2024-convergentnpalikehierarchiesquantum/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/renou-2024-convergentnpalikehierarchiesquantum/</guid><description/></item><item><title>Pandas</title><link>https://xiangling-xu.github.io/project/pandas/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/project/pandas/</guid><description>&lt;p>Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p></description></item><item><title>PyTorch</title><link>https://xiangling-xu.github.io/project/pytorch/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/project/pytorch/</guid><description>&lt;p>PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p></description></item><item><title>scikit-learn</title><link>https://xiangling-xu.github.io/project/scikit/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/project/scikit/</guid><description>&lt;p>scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p></description></item><item><title>Experience</title><link>https://xiangling-xu.github.io/experience/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/experience/</guid><description/></item><item><title>Learn JavaScript</title><link>https://xiangling-xu.github.io/teaching/js/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/teaching/js/</guid><description>&lt;p>
 is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p>
 &lt;p>&lt;strong>Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong>&lt;/p>
 &lt;p>On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p>
