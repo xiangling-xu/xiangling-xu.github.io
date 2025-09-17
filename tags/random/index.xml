@@ -15,18 +15,20 @@
 &lt;li>
 — Vienna, Austria.&lt;/li>
 &lt;li>
+— Vienna, Austria.&lt;/li>
+&lt;li>
 — Toulouse, France.&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;!-- ### Photos
+&lt;h3 id="photos">Photos&lt;/h3>
 &lt;div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 my-4">
 &lt;figure class="text-center">
-&lt;img src="photo1.jpg" alt="Event photo 1" loading="lazy" class="mx-auto rounded-xl shadow max-w-md w-full">
-&lt;figcaption class="text-xs text-gray-500 mt-1">Image credit: &lt;strong>your name&lt;/strong>&lt;/figcaption>
+&lt;img src="aussois_group.jpg" alt="Event photo 1" loading="lazy" class="mx-auto rounded-xl shadow max-w-md w-full">
+&lt;figcaption class="text-xs text-gray-500 mt-1">Image credit: &lt;em>My Huawei MateX3 at Aussios, France&lt;/em>&lt;/figcaption>
 &lt;/figure>
 &lt;figure class="text-center">
-&lt;img src="photo2.jpg" alt="Event photo 2" loading="lazy" class="mx-auto rounded-xl shadow max-w-md w-full">
-&lt;figcaption class="text-xs text-gray-500 mt-1">Image credit: &lt;strong>your name&lt;/strong>&lt;/figcaption>
+&lt;img src="WEH_828_2.jpg" alt="Event photo 2" loading="lazy" class="mx-auto rounded-xl shadow max-w-md w-full">
+&lt;figcaption class="text-xs text-gray-500 mt-1">Image credit: &lt;em>828. WE-Heraeus-Seminar, Bad Honnef, Germany&lt;/em>&lt;/figcaption>
 &lt;/figure>
 &lt;!-- Add more figures as needed -->
-&lt;/div> --></description></item></channel></rss>
+&lt;/div></description></item></channel></rss>
