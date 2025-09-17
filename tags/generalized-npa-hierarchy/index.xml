@@ -23,11 +23,14 @@ color: #6b7280; /* gray-500 */
 }
 .prose .talk-multi-venues section.footnotes hr,
 .prose .talk-multi-venues .footnotes hr { display: none; }
+/* tighten just figures you mark with class="tight-cap" */
+.prose figure.tight-cap figcaption { margin-top: .25rem !important; }
+.prose figure.tight-cap figcaption p { margin: .125rem 0 0 0 !important; }
 &lt;/style>
 &lt;p class="text-sm text-gray-500 dark:text-gray-400">
 This talk has been presented at multiple venues. The date above is set to the most recent instance for correct ordering in the Talks list. Materials (slides/poster) are shared with minor venue-specific tweaks.
 &lt;/p>
-&lt;h1 id="talks">Talks&lt;/h1>
+&lt;h3 id="talks">Talks&lt;/h3>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -58,7 +61,7 @@ This talk has been presented at multiple venues. The date above is set to the mo
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;h1 id="poster-sessions">Poster sessions&lt;/h1>
+&lt;h3 id="poster-sessions">Poster sessions&lt;/h3>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -81,12 +84,12 @@ This talk has been presented at multiple venues. The date above is set to the mo
 &lt;/tbody>
 &lt;/table>
 &lt;p>&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/p>
-&lt;figure>&lt;a href="WAQ_4_Nov.png">&lt;img src="https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov.png"
+&lt;figure class="tight-cap">&lt;a href="WAQ_4_Nov.png">&lt;img src="https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov.png"
 alt="WAQ (We are quantum) at Paris, France" width="650">&lt;/a>&lt;figcaption>
 &lt;p>Image credit: **WAQ (We are quantum) at Paris, France&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
-&lt;figure>&lt;a href="YQIS_6_Nov.png">&lt;img src="https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov.png"
+&lt;figure class="tight-cap">&lt;a href="YQIS_6_Nov.png">&lt;img src="https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov.png"
 alt="YQIS24 at Paris, France" width="650">&lt;/a>&lt;figcaption>
 &lt;p>Image credit: &lt;strong>YQIS24 at Paris, France&lt;/strong>&lt;/p>
 &lt;/figcaption>
