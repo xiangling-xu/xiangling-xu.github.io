@@ -81,32 +81,16 @@ This talk has been presented at multiple venues. The date above is set to the mo
 &lt;/tbody>
 &lt;/table>
 &lt;p>&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="flex justify-center ">
-&lt;div class="w-full" >
-&lt;img alt="WAQ (We are quantum) at Paris, France"
-srcset="https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov_hu_c7f732f8b49a6b56.webp 320w, https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov_hu_a546dcbcb37f8cd3.webp 480w, https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov_hu_b72e45ff4673aee6.webp 650w"
-sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
-src="https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov_hu_c7f732f8b49a6b56.webp"
-width="650"
-height="509"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="flex justify-center ">
-&lt;div class="w-full" >
-&lt;img alt="YQIS24 at Paris, France"
-srcset="https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov_hu_4e4fee5f0d859c69.webp 320w, https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov_hu_e515dc5a31bceee1.webp 480w, https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov_hu_4473a299eae80f4f.webp 650w"
-sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
-src="https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov_hu_4e4fee5f0d859c69.webp"
-width="650"
-height="487"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
+&lt;figure>&lt;a href="WAQ_4_Nov.png">&lt;img src="https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov.png"
+alt="WAQ (We are quantum) at Paris, France" width="650">&lt;/a>&lt;figcaption>
+&lt;p>Image credit: **WAQ (We are quantum) at Paris, France&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;a href="YQIS_6_Nov.png">&lt;img src="https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov.png"
+alt="YQIS24 at Paris, France" width="650">&lt;/a>&lt;figcaption>
+&lt;p>Image credit: &lt;strong>YQIS24 at Paris, France&lt;/strong>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
 &lt;/div>
 &lt;div class="footnotes" role="doc-endnotes">
 &lt;hr>

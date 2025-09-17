@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Talks and event participation | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/conference/</link><atom:link href="https://xiangling-xu.github.io/conference/index.xml" rel="self" type="application/rss+xml"/><description>Talks and event participation</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/sharing.png</url><title>Talks and event participation</title><link>https://xiangling-xu.github.io/conference/</link></image><item><title>Example Talk</title><link>https://xiangling-xu.github.io/conference/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/example/</guid><description>&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
-&lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
-&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
-&lt;/span>
-&lt;span class="dark:text-neutral-300">Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.&lt;/span>
-&lt;/div>
-&lt;p>Slides can be added in a few ways:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Create&lt;/strong> slides using Hugo Blox Builder&amp;rsquo;s
-feature and link using the &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to this page bundle and link it using &lt;code>links: [{ type: slides, url: path/to/file } ]&lt;/code> in front matter&lt;/li>
-&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using
-.&lt;/li>
-&lt;/ul>
-&lt;p>Further event details, including
-such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Quantitative quantum soundness for all bipartite compiled Bell games via the sequential NPA hierarchy</title><link>https://xiangling-xu.github.io/conference/bipartite-compiled/</link><pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/bipartite-compiled/</guid><description>&lt;div class="talk-multi-venues">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Talks and event participation | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/conference/</link><atom:link href="https://xiangling-xu.github.io/conference/index.xml" rel="self" type="application/rss+xml"/><description>Talks and event participation</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/sharing.png</url><title>Talks and event participation</title><link>https://xiangling-xu.github.io/conference/</link></image><item><title>Quantitative quantum soundness for all bipartite compiled Bell games via the sequential NPA hierarchy</title><link>https://xiangling-xu.github.io/conference/bipartite-compiled/</link><pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/bipartite-compiled/</guid><description>&lt;div class="talk-multi-venues">
 &lt;style>
 /* Smaller inline footnote refs (beats .prose defaults) */
 .prose .talk-multi-venues sup.footnote-ref,
@@ -72,19 +57,11 @@ This talk has been presented at multiple venues. The date above is set to the mo
 | 2024-11 | **YQIS24**[^yqis] | Inria Paris, Paris (FR) |
 | 2024-11 | **GDR TeQ 2024**[^gdr] | Sorbonne University, Paris (FR) | -->
 &lt;p>&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="flex justify-center ">
-&lt;div class="w-full" >
-&lt;img alt="IWOTA 2025 at Twente, Netherland"
-srcset="https://xiangling-xu.github.io/conference/bipartite-compiled/iwota2025_hu_fef28233ebd05e6a.webp 320w, https://xiangling-xu.github.io/conference/bipartite-compiled/iwota2025_hu_fa6c010e695f0599.webp 480w, https://xiangling-xu.github.io/conference/bipartite-compiled/iwota2025_hu_922b989f424c8134.webp 760w"
-sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
-src="https://xiangling-xu.github.io/conference/bipartite-compiled/iwota2025_hu_fef28233ebd05e6a.webp"
-width="760"
-height="447"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
+&lt;figure>&lt;a href="iwota2025.jpg">&lt;img src="https://xiangling-xu.github.io/conference/bipartite-compiled/iwota2025.jpg"
+alt="IWOTA 2025 at Twente, Netherland" width="650">&lt;/a>&lt;figcaption>
+&lt;p>Image credit: &lt;strong>IWOTA 2025 at Twente, Netherland&lt;/strong>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
 &lt;/div>
 &lt;div class="footnotes" role="doc-endnotes">
 &lt;hr>
@@ -185,32 +162,16 @@ This talk has been presented at multiple venues. The date above is set to the mo
 &lt;/tbody>
 &lt;/table>
 &lt;p>&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="flex justify-center ">
-&lt;div class="w-full" >
-&lt;img alt="WAQ (We are quantum) at Paris, France"
-srcset="https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov_hu_c7f732f8b49a6b56.webp 320w, https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov_hu_a546dcbcb37f8cd3.webp 480w, https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov_hu_b72e45ff4673aee6.webp 650w"
-sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
-src="https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov_hu_c7f732f8b49a6b56.webp"
-width="650"
-height="509"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="flex justify-center ">
-&lt;div class="w-full" >
-&lt;img alt="YQIS24 at Paris, France"
-srcset="https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov_hu_4e4fee5f0d859c69.webp 320w, https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov_hu_e515dc5a31bceee1.webp 480w, https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov_hu_4473a299eae80f4f.webp 650w"
-sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
-src="https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov_hu_4e4fee5f0d859c69.webp"
-width="650"
-height="487"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
+&lt;figure>&lt;a href="WAQ_4_Nov.png">&lt;img src="https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov.png"
+alt="WAQ (We are quantum) at Paris, France" width="650">&lt;/a>&lt;figcaption>
+&lt;p>Image credit: **WAQ (We are quantum) at Paris, France&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure>&lt;a href="YQIS_6_Nov.png">&lt;img src="https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov.png"
+alt="YQIS24 at Paris, France" width="650">&lt;/a>&lt;figcaption>
+&lt;p>Image credit: &lt;strong>YQIS24 at Paris, France&lt;/strong>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
 &lt;/div>
 &lt;div class="footnotes" role="doc-endnotes">
 &lt;hr>

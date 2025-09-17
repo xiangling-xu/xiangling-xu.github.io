@@ -57,19 +57,11 @@ This talk has been presented at multiple venues. The date above is set to the mo
 | 2024-11 | **YQIS24**[^yqis] | Inria Paris, Paris (FR) |
 | 2024-11 | **GDR TeQ 2024**[^gdr] | Sorbonne University, Paris (FR) | -->
 &lt;p>&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="flex justify-center ">
-&lt;div class="w-full" >
-&lt;img alt="IWOTA 2025 at Twente, Netherland"
-srcset="https://xiangling-xu.github.io/conference/bipartite-compiled/iwota2025_hu_fef28233ebd05e6a.webp 320w, https://xiangling-xu.github.io/conference/bipartite-compiled/iwota2025_hu_fa6c010e695f0599.webp 480w, https://xiangling-xu.github.io/conference/bipartite-compiled/iwota2025_hu_922b989f424c8134.webp 760w"
-sizes="(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px"
-src="https://xiangling-xu.github.io/conference/bipartite-compiled/iwota2025_hu_fef28233ebd05e6a.webp"
-width="760"
-height="447"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
+&lt;figure>&lt;a href="iwota2025.jpg">&lt;img src="https://xiangling-xu.github.io/conference/bipartite-compiled/iwota2025.jpg"
+alt="IWOTA 2025 at Twente, Netherland" width="650">&lt;/a>&lt;figcaption>
+&lt;p>Image credit: &lt;strong>IWOTA 2025 at Twente, Netherland&lt;/strong>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
 &lt;/div>
 &lt;div class="footnotes" role="doc-endnotes">
 &lt;hr>
