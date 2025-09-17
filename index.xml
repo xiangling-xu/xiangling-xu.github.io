@@ -61,7 +61,7 @@ This talk has been presented at multiple venues. The date above is set to the mo
 |---|---|---|
 | 2024-11 | **YQIS24**[^yqis] | Inria Paris, Paris (FR) |
 | 2024-11 | **GDR TeQ 2024**[^gdr] | Sorbonne University, Paris (FR) | -->
-&lt;p>&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/p>
+&lt;h2 id="also-presented-at-various-internal-group-meetings-during-research-visits">&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/h2>
 &lt;figure class="tight-cap">&lt;a href="iwota2025.jpg">&lt;img src="https://xiangling-xu.github.io/conference/bipartite-compiled/iwota2025.jpg"
 alt="IWOTA 2025 at Twente, Netherland" width="650">&lt;/a>&lt;figcaption>
 &lt;p>Image credit: &lt;em>IWOTA 2025 at Twente, Netherland&lt;/em>&lt;/p>
@@ -169,7 +169,7 @@ This talk has been presented at multiple venues. The date above is set to the mo
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/p>
+&lt;h2 id="also-presented-at-various-internal-group-meetings-during-research-visits">&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/h2>
 &lt;figure class="tight-cap">&lt;a href="WAQ_4_Nov.png">&lt;img src="https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov.png"
 alt="WAQ (We are quantum) at Paris, France" width="650">&lt;/a>&lt;figcaption>
 &lt;p>Image credit: &lt;em>WAQ (We are quantum) at Paris, France&lt;/em>&lt;/p>
@@ -201,7 +201,7 @@ alt="YQIS24 at Paris, France" width="650">&lt;/a>&lt;figcaption>
 &amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Organization and other participation</title><link>https://xiangling-xu.github.io/conference/organization-participation/</link><pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/organization-participation/</guid><description>&lt;h2 id="organization">Organization&lt;/h2>
+&lt;/div></description></item><item><title>Organization and other participation</title><link>https://xiangling-xu.github.io/conference/organization-participation/</link><pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/organization-participation/</guid><description>&lt;h3 id="organization">Organization&lt;/h3>
 &lt;ul>
 &lt;li>
 — Bad Honnef, Germany. &lt;em>Co-organizer.&lt;/em>&lt;/li>
@@ -211,7 +211,7 @@ alt="YQIS24 at Paris, France" width="650">&lt;/a>&lt;figcaption>
 — project activities. &lt;em>Co-organizer.&lt;/em>&lt;/li>
 &lt;li>Saclay Quantum Seminar — Sep 2023 session on the NPA hierarchy, Inria Saclay, Palaiseau, France. &lt;em>Co-organizer.&lt;/em>&lt;/li>
 &lt;/ul>
-&lt;h2 id="participation">Participation&lt;/h2>
+&lt;h3 id="participation">Participation&lt;/h3>
 &lt;ul>
 &lt;li>
 — Vienna, Austria.&lt;/li>
@@ -222,16 +222,29 @@ alt="YQIS24 at Paris, France" width="650">&lt;/a>&lt;figcaption>
 &lt;/ul>
 &lt;hr>
 &lt;h3 id="photos">Photos&lt;/h3>
-&lt;div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 my-4">
+&lt;div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-6 my-6">
 &lt;figure class="text-center">
-&lt;img src="aussois_group.jpg" alt="Event photo 1" loading="lazy" class="mx-auto rounded-xl shadow max-w-md w-full">
-&lt;figcaption class="text-xs text-gray-500 mt-1">Image credit: &lt;em>My Huawei MateX3 at Aussios, France&lt;/em>&lt;/figcaption>
+&lt;a href="aussois_group.jpg" target="_blank" rel="noopener" class="block">
+&lt;img src="aussois_group.jpg"
+alt="Aussios (Aussois) group photo"
+loading="lazy"
+class="w-full h-auto rounded-2xl shadow-lg">
+&lt;/a>
+&lt;figcaption class="text-xs text-gray-500 mt-2">
+Image credit: &lt;em>My Huawei Mate X3 at Aussois, France&lt;/em>
+&lt;/figcaption>
 &lt;/figure>
 &lt;figure class="text-center">
-&lt;img src="WEH_828_2.jpg" alt="Event photo 2" loading="lazy" class="mx-auto rounded-xl shadow max-w-md w-full">
-&lt;figcaption class="text-xs text-gray-500 mt-1">Image credit: &lt;em>828. WE-Heraeus-Seminar, Bad Honnef, Germany&lt;/em>&lt;/figcaption>
+&lt;a href="WEH_828_2.jpg" target="_blank" rel="noopener" class="block">
+&lt;img src="WEH_828_2.jpg"
+alt="WE-Heraeus 828, Bad Honnef"
+loading="lazy"
+class="w-full h-auto rounded-2xl shadow-lg">
+&lt;/a>
+&lt;figcaption class="text-xs text-gray-500 mt-2">
+Image credit: &lt;em>828. WE-Heraeus-Seminar, Bad Honnef, Germany&lt;/em>
+&lt;/figcaption>
 &lt;/figure>
-&lt;!-- Add more figures as needed -->
 &lt;/div></description></item><item><title>Projects</title><link>https://xiangling-xu.github.io/projects/</link><pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/projects/</guid><description/></item><item><title>Two convergent NPA-like hierarchies for the quantum bilocal scenario</title><link>https://xiangling-xu.github.io/publication/renou-2024-convergentnpalikehierarchiesquantum/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/renou-2024-convergentnpalikehierarchiesquantum/</guid><description/></item><item><title>Pandas</title><link>https://xiangling-xu.github.io/project/pandas/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/project/pandas/</guid><description>&lt;p>Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p></description></item><item><title>PyTorch</title><link>https://xiangling-xu.github.io/project/pytorch/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/project/pytorch/</guid><description>&lt;p>PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p></description></item><item><title>scikit-learn</title><link>https://xiangling-xu.github.io/project/scikit/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/project/scikit/</guid><description>&lt;p>scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p></description></item><item><title>Experience</title><link>https://xiangling-xu.github.io/experience/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/experience/</guid><description/></item><item><title>Learn JavaScript</title><link>https://xiangling-xu.github.io/teaching/js/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/teaching/js/</guid><description>&lt;p>
 is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p>
 &lt;p>&lt;strong>Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong>&lt;/p>
