@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bilocal Factorisation | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/tags/bilocal-factorisation/</link><atom:link href="https://xiangling-xu.github.io/tags/bilocal-factorisation/index.xml" rel="self" type="application/rss+xml"/><description>Bilocal Factorisation</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/sharing.png</url><title>Bilocal Factorisation</title><link>https://xiangling-xu.github.io/tags/bilocal-factorisation/</link></image><item><title>Characterizing quantum bilocal networks with generalized NPA hierarchies</title><link>https://xiangling-xu.github.io/conference/bilocal-npa/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/bilocal-npa/</guid><description>&lt;!--
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quantum Network Nonlocality | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/tags/quantum-network-nonlocality/</link><atom:link href="https://xiangling-xu.github.io/tags/quantum-network-nonlocality/index.xml" rel="self" type="application/rss+xml"/><description>Quantum Network Nonlocality</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/sharing.png</url><title>Quantum Network Nonlocality</title><link>https://xiangling-xu.github.io/tags/quantum-network-nonlocality/</link></image><item><title>Characterizing quantum bilocal networks with generalized NPA hierarchies</title><link>https://xiangling-xu.github.io/conference/bilocal-npa/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/bilocal-npa/</guid><description>&lt;!--
 &lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
 &lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
 &lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
@@ -86,12 +86,12 @@ This talk has been presented at multiple venues. The date above is set to the mo
 &lt;p>&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/p>
 &lt;figure class="tight-cap">&lt;a href="WAQ_4_Nov.png">&lt;img src="https://xiangling-xu.github.io/conference/bilocal-npa/WAQ_4_Nov.png"
 alt="WAQ (We are quantum) at Paris, France" width="650">&lt;/a>&lt;figcaption>
-&lt;p>Image credit: **WAQ (We are quantum) at Paris, France&lt;/p>
+&lt;p>Image credit: &lt;em>WAQ (We are quantum) at Paris, France&lt;/em>&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
 &lt;figure class="tight-cap">&lt;a href="YQIS_6_Nov.png">&lt;img src="https://xiangling-xu.github.io/conference/bilocal-npa/YQIS_6_Nov.png"
 alt="YQIS24 at Paris, France" width="650">&lt;/a>&lt;figcaption>
-&lt;p>Image credit: &lt;strong>YQIS24 at Paris, France&lt;/strong>&lt;/p>
+&lt;p>Image credit: &lt;em>YQIS24 at Paris, France&lt;/em>&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
 &lt;/div>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Random | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/tags/random/</link><atom:link href="https://xiangling-xu.github.io/tags/random/index.xml" rel="self" type="application/rss+xml"/><description>Random</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/sharing.png</url><title>Random</title><link>https://xiangling-xu.github.io/tags/random/</link></image><item><title>🎉 The beginning of this website</title><link>https://xiangling-xu.github.io/post/first-post-15-09-2025/</link><pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/post/first-post-15-09-2025/</guid><description>&lt;p>As an &amp;ldquo;entertainment&amp;rdquo; to amuses myself after two weeks of continuously working, for two submissions of QIP, I decided to make a website through GitHub.&lt;/p>
+&lt;p>My programming skill is long gone for at least five years. Took me a long time trying to figure out this Hugo + GitHub mess. But once it is sorted out, it is sorted out, phew. Rather late in the night now.&lt;/p>
+&lt;p>愿功夫不负有心人吧。&lt;/p></description></item><item><title>Organization and other participation</title><link>https://xiangling-xu.github.io/conference/organization-participation/</link><pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/organization-participation/</guid><description>&lt;h2 id="organization">Organization&lt;/h2>
+&lt;ul>
+&lt;li>
+— Bad Honnef, Germany. &lt;em>Co-organizer.&lt;/em>&lt;/li>
+&lt;li>
+— Inria Saclay, Palaiseau, France. &lt;em>Co-organizer.&lt;/em>&lt;/li>
+&lt;li>
+— project activities. &lt;em>Co-organizer.&lt;/em>&lt;/li>
+&lt;li>Saclay Quantum Seminar — Sep 2023 session on the NPA hierarchy, Inria Saclay, Palaiseau, France. &lt;em>Co-organizer.&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="participation">Participation&lt;/h2>
+&lt;ul>
+&lt;li>
+— Vienna, Austria.&lt;/li>
+&lt;li>
+— Toulouse, France.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;!-- ### Photos
+&lt;div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 my-4">
+&lt;figure class="text-center">
+&lt;img src="photo1.jpg" alt="Event photo 1" loading="lazy" class="mx-auto rounded-xl shadow max-w-md w-full">
+&lt;figcaption class="text-xs text-gray-500 mt-1">Image credit: &lt;strong>your name&lt;/strong>&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="text-center">
+&lt;img src="photo2.jpg" alt="Event photo 2" loading="lazy" class="mx-auto rounded-xl shadow max-w-md w-full">
+&lt;figcaption class="text-xs text-gray-500 mt-1">Image credit: &lt;strong>your name&lt;/strong>&lt;/figcaption>
+&lt;/figure>
+&lt;!-- Add more figures as needed -->
+&lt;/div> --></description></item></channel></rss>
