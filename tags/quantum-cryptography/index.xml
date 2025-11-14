@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quantum Cryptography | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/tags/quantum-cryptography/</link><atom:link href="https://xiangling-xu.github.io/tags/quantum-cryptography/index.xml" rel="self" type="application/rss+xml"/><description>Quantum Cryptography</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/sharing.png</url><title>Quantum Cryptography</title><link>https://xiangling-xu.github.io/tags/quantum-cryptography/</link></image><item><title>Quantitative quantum soundness for all bipartite compiled Bell games via the sequential NPA hierarchy</title><link>https://xiangling-xu.github.io/conference/bipartite-compiled/</link><pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/bipartite-compiled/</guid><description>&lt;div class="talk-multi-venues">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quantum Cryptography | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/tags/quantum-cryptography/</link><atom:link href="https://xiangling-xu.github.io/tags/quantum-cryptography/index.xml" rel="self" type="application/rss+xml"/><description>Quantum Cryptography</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/sharing.png</url><title>Quantum Cryptography</title><link>https://xiangling-xu.github.io/tags/quantum-cryptography/</link></image><item><title>Quantitative quantum soundness for all compiled nonlocal games with a sequential NPA hierarchy</title><link>https://xiangling-xu.github.io/conference/compiled-soundness/</link><pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/compiled-soundness/</guid><description>&lt;div class="talk-multi-venues">
 &lt;style>
 /* Smaller inline footnote refs (beats .prose defaults) */
 .prose .talk-multi-venues sup.footnote-ref,
@@ -21,7 +21,8 @@ color: #6b7280; /* gray-500 */
 .prose figure.tight-cap figcaption p { margin: .125rem 0 0 0 !important; }
 &lt;/style>
 &lt;p class="text-sm text-gray-500 dark:text-gray-400">
-This talk has been presented at multiple venues. The date above is set to the most recent instance for correct ordering in the Talks list. Materials (slides/poster) are shared with minor venue-specific tweaks.
+The multipartite result (arXiv:2509.25145) generalises and subsumes the earlier bipartite analysis. Talks given before 2025 correspond to the bipartite case, while later talks include the full multipartite framework.
+&lt;p>This talk has been presented at multiple venues. The date above is set to the most recent instance for correct ordering in the Talks list. Materials (slides/poster) are partially shared with twists&lt;/p>
 &lt;/p>
 &lt;h3 id="talks">Talks&lt;/h3>
 &lt;table>
@@ -35,21 +36,39 @@ This talk has been presented at multiple venues. The date above is set to the mo
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>2024-09&lt;/td>
-&lt;td>&lt;strong>YQIS25&lt;/strong>&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/td>
-&lt;td>ICFO, Castelldefels (ES)&lt;/td>
+&lt;td>2025-11&lt;/td>
+&lt;td>&lt;strong>SIAM Conference on Optimization (OP26)&lt;/strong>&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/td>
+&lt;td>Edinbrugh, United Kingdom&lt;/td>
+&lt;td>Invited&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2026-01&lt;/td>
+&lt;td>&lt;strong>QIP 2026&lt;/strong>&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> - 2 talks&lt;/td>
+&lt;td>Riga, Lativia&lt;/td>
+&lt;td>Contributed&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2025-11&lt;/td>
+&lt;td>&lt;strong>3rd Colloquium GDR TeQ&lt;/strong>&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/td>
+&lt;td>Grenoble, France&lt;/td>
+&lt;td>Contributed&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2025-09&lt;/td>
+&lt;td>&lt;strong>YQIS25&lt;/strong>&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/td>
+&lt;td>Barcelona, Spain&lt;/td>
 &lt;td>Contributed&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2025-07&lt;/td>
-&lt;td>&lt;strong>IWOTA 2025&lt;/strong>&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/td>
-&lt;td>University of Twente, Twente (NL)&lt;/td>
-&lt;td>Contributed&lt;/td>
+&lt;td>&lt;strong>IWOTA 2025&lt;/strong>&lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>&lt;/td>
+&lt;td>Twente, Netherland&lt;/td>
+&lt;td>Invited&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2025-06&lt;/td>
-&lt;td>&lt;strong>IQC-PCQT-Quantum Saclay Workshop&lt;/strong>&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/td>
-&lt;td>Sorbonne University, Paris (FR)&lt;/td>
+&lt;td>&lt;strong>IQC-PCQT-Quantum Saclay Workshop&lt;/strong>&lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>&lt;/td>
+&lt;td>Paris, France&lt;/td>
 &lt;td>Invited&lt;/td>
 &lt;/tr>
 &lt;/tbody>
@@ -61,7 +80,7 @@ This talk has been presented at multiple venues. The date above is set to the mo
 | 2024-11 | **GDR TeQ 2024**[^gdr] | Sorbonne University, Paris (FR) | -->
 &lt;p>&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/p>
 &lt;hr>
-&lt;figure class="tight-cap">&lt;a href="iwota2025.jpg">&lt;img src="https://xiangling-xu.github.io/conference/bipartite-compiled/iwota2025.jpg"
+&lt;figure class="tight-cap">&lt;a href="iwota2025.jpg">&lt;img src="https://xiangling-xu.github.io/conference/compiled-soundness/iwota2025.jpg"
 alt="IWOTA 2025 at Twente, Netherland" width="650">&lt;/a>&lt;figcaption>
 &lt;p>Image credit: &lt;em>IWOTA 2025 at Twente, Netherland&lt;/em>&lt;/p>
 &lt;/figcaption>
@@ -81,6 +100,18 @@ alt="IWOTA 2025 at Twente, Netherland" width="650">&lt;/a>&lt;figcaption>
 &lt;li id="fn:3">
 &lt;p>
 &amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>
+&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5">
+&lt;p>
+&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:6">
+&lt;p>
+&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/div></description></item></channel></rss>
