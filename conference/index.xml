@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Talks and others | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/conference/</link><atom:link href="https://xiangling-xu.github.io/conference/index.xml" rel="self" type="application/rss+xml"/><description>Talks and others</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/sharing.png</url><title>Talks and others</title><link>https://xiangling-xu.github.io/conference/</link></image><item><title>Quantitative quantum soundness for all compiled nonlocal games with a sequential NPA hierarchy</title><link>https://xiangling-xu.github.io/conference/compiled-soundness/</link><pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/compiled-soundness/</guid><description>&lt;div class="talk-multi-venues">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Talks and others | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/conference/</link><atom:link href="https://xiangling-xu.github.io/conference/index.xml" rel="self" type="application/rss+xml"/><description>Talks and others</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/sharing.png</url><title>Talks and others</title><link>https://xiangling-xu.github.io/conference/</link></image><item><title>Quantitative quantum soundness for compiled nonlocal games and the sequential NPA hierarchy for completely positive maps</title><link>https://xiangling-xu.github.io/conference/compiled-soundness/</link><pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/compiled-soundness/</guid><description>&lt;div class="talk-multi-venues">
 &lt;style>
 /* Smaller inline footnote refs (beats .prose defaults) */
 .prose .talk-multi-venues sup.footnote-ref,
@@ -21,8 +21,7 @@ color: #6b7280; /* gray-500 */
 .prose figure.tight-cap figcaption p { margin: .125rem 0 0 0 !important; }
 &lt;/style>
 &lt;p class="text-sm text-gray-500 dark:text-gray-400">
-The multipartite result (arXiv:2509.25145) generalises and subsumes the earlier bipartite analysis. Talks given before 2025 correspond to the bipartite case, while later talks include the full multipartite framework.
-&lt;p>This talk has been presented at multiple venues. The date above is set to the most recent instance for correct ordering in the Talks list. Materials (slides/poster) are partially shared with twists&lt;/p>
+The multipartite result (arXiv:2509.25145) generalizes and subsumes the earlier bipartite analysis. Talks given before 2025 correspond to the bipartite case, while later talks include the full multipartite framework. This talk has been presented at multiple venues. The date above is set to the most recent instance for correct ordering in the Talks list. Materials (slides/poster) are partially shared with twists
 &lt;/p>
 &lt;h3 id="talks">Talks&lt;/h3>
 &lt;table>
@@ -80,8 +79,13 @@ The multipartite result (arXiv:2509.25145) generalises and subsumes the earlier 
 | 2024-11 | **GDR TeQ 2024**[^gdr] | Sorbonne University, Paris (FR) | -->
 &lt;p>&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/p>
 &lt;hr>
+&lt;figure class="tight-cap">&lt;a href="GdRTeQ3.jpg">&lt;img src="https://xiangling-xu.github.io/conference/compiled-soundness/GdRTeQ3.jpg"
+alt="3rd Colloquium GDR TeQ at Grenoble" width="650">&lt;/a>&lt;figcaption>
+&lt;p>Image credit: &lt;em>My wonderful colleagues&lt;/em>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
 &lt;figure class="tight-cap">&lt;a href="iwota2025.jpg">&lt;img src="https://xiangling-xu.github.io/conference/compiled-soundness/iwota2025.jpg"
-alt="IWOTA 2025 at Twente, Netherland" width="650">&lt;/a>&lt;figcaption>
+alt="IWOTA 2025 at Twente" width="650">&lt;/a>&lt;figcaption>
 &lt;p>Image credit: &lt;em>IWOTA 2025 at Twente, Netherland&lt;/em>&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
