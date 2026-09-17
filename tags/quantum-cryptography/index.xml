@@ -84,11 +84,24 @@ The multipartite result (arXiv:2509.25145) generalizes and subsumes the earlier 
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;!-- # Poster sessions
-| Date | Event | Host / Location |
-|---|---|---|
-| 2024-11 | **YQIS24**[^yqis] | Inria Paris, Paris (FR) |
-| 2024-11 | **GDR TeQ 2024**[^gdr] | Sorbonne University, Paris (FR) | -->
+&lt;h3 id="poster-sessions">Poster sessions&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Date&lt;/th>
+&lt;th>Event&lt;/th>
+&lt;th>Host / Location&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2026-08&lt;/td>
+&lt;td>&lt;strong>
+&lt;/strong>&lt;/td>
+&lt;td>Shenzhen, China&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
 &lt;p>&lt;em>Also presented at various internal group meetings during research visits.&lt;/em>&lt;/p>
 &lt;hr>
 &lt;figure class="tight-cap">&lt;a href="QIP2026.jpg">&lt;img src="https://xiangling-xu.github.io/conference/compiled-soundness/QIP2026.jpg"
