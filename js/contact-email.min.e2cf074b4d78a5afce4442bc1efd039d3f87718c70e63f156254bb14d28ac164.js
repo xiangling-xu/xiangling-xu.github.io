@@ -1,0 +1,1 @@
+document.querySelectorAll("a[href]").forEach(e=>{const t=new URL(e.href,document.baseURI);if(t.origin!==location.origin||t.pathname!=="/"||t.hash!=="#contact")return;e.addEventListener("click",()=>{const n=e.getAttribute("href"),t=["xu","xiangling","inria","fr"];e.href=`mailto:${t.slice(0,2).join(".")}@${t.slice(2).join(".")}`,setTimeout(()=>e.setAttribute("href",n),1e3)})})

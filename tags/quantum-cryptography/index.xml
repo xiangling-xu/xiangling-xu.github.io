@@ -21,7 +21,7 @@ color: #6b7280; /* gray-500 */
 .prose figure.tight-cap figcaption p { margin: .125rem 0 0 0 !important; }
 &lt;/style>
 &lt;p class="text-sm text-gray-500 dark:text-gray-400">
-The multipartite result (arXiv:2509.25145) generalizes and subsumes the earlier bipartite analysis. Talks given before 2025 correspond to the bipartite case, while later talks include the full multipartite framework. This talk has been presented at multiple venues. The date above is set to the most recent instance for correct ordering in the Talks list. Materials (slides/poster) are partially shared with twists
+These presentations cover the bipartite and multipartite results. The scope and emphasis vary by venue; see the individual slide sets for details.
 &lt;/p>
 &lt;h3 id="talks">Talks&lt;/h3>
 &lt;table>
@@ -43,13 +43,13 @@ The multipartite result (arXiv:2509.25145) generalizes and subsumes the earlier 
 &lt;tr>
 &lt;td>2026-06&lt;/td>
 &lt;td>&lt;strong>SIAM Conference on Optimization (OP26)&lt;/strong>&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/td>
-&lt;td>Edinbrugh, United Kingdom&lt;/td>
+&lt;td>Edinburgh, United Kingdom&lt;/td>
 &lt;td>Invited&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2026-01&lt;/td>
 &lt;td>&lt;strong>QIP 2026&lt;/strong>&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> - 2 talks&lt;/td>
-&lt;td>Riga, Lativia&lt;/td>
+&lt;td>Riga, Latvia&lt;/td>
 &lt;td>Contributed&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -73,7 +73,7 @@ The multipartite result (arXiv:2509.25145) generalizes and subsumes the earlier 
 &lt;tr>
 &lt;td>2025-07&lt;/td>
 &lt;td>&lt;strong>IWOTA 2025&lt;/strong>&lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/td>
-&lt;td>Twente, Netherland&lt;/td>
+&lt;td>Twente, Netherlands&lt;/td>
 &lt;td>Invited&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -116,7 +116,7 @@ alt="3rd Colloquium GDR TeQ at Grenoble" width="650">&lt;/a>&lt;figcaption>
 &lt;/figure>
 &lt;figure class="tight-cap">&lt;a href="iwota2025.jpg">&lt;img src="https://xiangling-xu.github.io/conference/compiled-soundness/iwota2025.jpg"
 alt="IWOTA 2025 at Twente" width="650">&lt;/a>&lt;figcaption>
-&lt;p>Image credit: &lt;em>IWOTA 2025 at Twente, Netherland&lt;/em>&lt;/p>
+&lt;p>Image credit: &lt;em>IWOTA 2025 at Twente, Netherlands&lt;/em>&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
 &lt;/div>

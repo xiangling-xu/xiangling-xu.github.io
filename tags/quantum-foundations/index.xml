@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quantum Foundations | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/tags/quantum-foundations/</link><atom:link href="https://xiangling-xu.github.io/tags/quantum-foundations/index.xml" rel="self" type="application/rss+xml"/><description>Quantum Foundations</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2026 00:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/sharing.png</url><title>Quantum Foundations</title><link>https://xiangling-xu.github.io/tags/quantum-foundations/</link></image><item><title>An operational characterization of finite-dimensional quantum theory</title><link>https://xiangling-xu.github.io/publication/dmello-2026-operationalcharacterizationfinitedimensionalquantum/</link><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/dmello-2026-operationalcharacterizationfinitedimensionalquantum/</guid><description/></item><item><title>Quantum inflation and source-transfer hierarchies are complete for tree networks</title><link>https://xiangling-xu.github.io/publication/xu-2026-quantumtreenetworkscomplete/</link><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/xu-2026-quantumtreenetworkscomplete/</guid><description/></item><item><title>Beyond qubits: fermionic nonlocality in quantum networks</title><link>https://xiangling-xu.github.io/conference/fermionic-nonlocality/</link><pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/fermionic-nonlocality/</guid><description>&lt;div class="talk-multi-venues">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quantum Foundations | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/tags/quantum-foundations/</link><atom:link href="https://xiangling-xu.github.io/tags/quantum-foundations/index.xml" rel="self" type="application/rss+xml"/><description>Quantum Foundations</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2026 00:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/sharing.png</url><title>Quantum Foundations</title><link>https://xiangling-xu.github.io/tags/quantum-foundations/</link></image><item><title>An operational characterization of finite-dimensional quantum theory</title><link>https://xiangling-xu.github.io/publication/dmello-2026-operationalcharacterizationfinitedimensionalquantum/</link><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/dmello-2026-operationalcharacterizationfinitedimensionalquantum/</guid><description/></item><item><title>Quantum inflation and source-transfer hierarchies are complete for tree networks</title><link>https://xiangling-xu.github.io/publication/xu-2026-quantumtreenetworkscomplete/</link><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/xu-2026-quantumtreenetworkscomplete/</guid><description/></item><item><title>Beyond qubits: fermionic nonlocality in distributed quantum computing</title><link>https://xiangling-xu.github.io/conference/fermionic-nonlocality/</link><pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/fermionic-nonlocality/</guid><description>&lt;div class="talk-multi-venues">
 &lt;h3 id="poster-sessions">Poster sessions&lt;/h3>
 &lt;table>
 &lt;thead>
@@ -41,7 +41,7 @@ color: #6b7280; /* gray-500 */
 .prose figure.tight-cap figcaption p { margin: .125rem 0 0 0 !important; }
 &lt;/style>
 &lt;p class="text-sm text-gray-500 dark:text-gray-400">
-The multipartite result (arXiv:2509.25145) generalizes and subsumes the earlier bipartite analysis. Talks given before 2025 correspond to the bipartite case, while later talks include the full multipartite framework. This talk has been presented at multiple venues. The date above is set to the most recent instance for correct ordering in the Talks list. Materials (slides/poster) are partially shared with twists
+These presentations cover the bipartite and multipartite results. The scope and emphasis vary by venue; see the individual slide sets for details.
 &lt;/p>
 &lt;h3 id="talks">Talks&lt;/h3>
 &lt;table>
@@ -63,13 +63,13 @@ The multipartite result (arXiv:2509.25145) generalizes and subsumes the earlier 
 &lt;tr>
 &lt;td>2026-06&lt;/td>
 &lt;td>&lt;strong>SIAM Conference on Optimization (OP26)&lt;/strong>&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/td>
-&lt;td>Edinbrugh, United Kingdom&lt;/td>
+&lt;td>Edinburgh, United Kingdom&lt;/td>
 &lt;td>Invited&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2026-01&lt;/td>
 &lt;td>&lt;strong>QIP 2026&lt;/strong>&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> - 2 talks&lt;/td>
-&lt;td>Riga, Lativia&lt;/td>
+&lt;td>Riga, Latvia&lt;/td>
 &lt;td>Contributed&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -93,7 +93,7 @@ The multipartite result (arXiv:2509.25145) generalizes and subsumes the earlier 
 &lt;tr>
 &lt;td>2025-07&lt;/td>
 &lt;td>&lt;strong>IWOTA 2025&lt;/strong>&lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>&lt;/td>
-&lt;td>Twente, Netherland&lt;/td>
+&lt;td>Twente, Netherlands&lt;/td>
 &lt;td>Invited&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -136,7 +136,7 @@ alt="3rd Colloquium GDR TeQ at Grenoble" width="650">&lt;/a>&lt;figcaption>
 &lt;/figure>
 &lt;figure class="tight-cap">&lt;a href="iwota2025.jpg">&lt;img src="https://xiangling-xu.github.io/conference/compiled-soundness/iwota2025.jpg"
 alt="IWOTA 2025 at Twente" width="650">&lt;/a>&lt;figcaption>
-&lt;p>Image credit: &lt;em>IWOTA 2025 at Twente, Netherland&lt;/em>&lt;/p>
+&lt;p>Image credit: &lt;em>IWOTA 2025 at Twente, Netherlands&lt;/em>&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
 &lt;/div>
