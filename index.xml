@@ -63,7 +63,7 @@ color: #6b7280; /* gray-500 */
 .prose figure.tight-cap figcaption p { margin: .125rem 0 0 0 !important; }
 &lt;/style>
 &lt;p class="text-sm text-gray-500 dark:text-gray-400">
-These presentations cover the bipartite and multipartite results. The scope and emphasis vary by venue; see the individual slide sets for details.
+These presentations cover the bipartite and multipartite results. The compiled-games slides introduce the cryptographic setting for a quantum-information audience; the sequential-NPA slides focus on the hierarchy and optimization methods.
 &lt;/p>
 &lt;h3 id="talks">Talks&lt;/h3>
 &lt;table>
