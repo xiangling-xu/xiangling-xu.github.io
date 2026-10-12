@@ -5,7 +5,7 @@
 &lt;tr>
 &lt;th>Date&lt;/th>
 &lt;th>Event&lt;/th>
-&lt;th>Host / Location&lt;/th>
+&lt;th>Location&lt;/th>
 &lt;th>Type&lt;/th>
 &lt;/tr>
 &lt;/thead>
@@ -14,7 +14,7 @@
 &lt;td>2026-11&lt;/td>
 &lt;td>&lt;strong>
 &lt;/strong>&lt;/td>
-&lt;td>Laboratoire de Physique de Toulouse, Toulouse, France&lt;/td>
+&lt;td>Toulouse, France&lt;/td>
 &lt;td>Contributed&lt;/td>
 &lt;/tr>
 &lt;/tbody>
@@ -25,7 +25,7 @@
 &lt;tr>
 &lt;th>Date&lt;/th>
 &lt;th>Event&lt;/th>
-&lt;th>Host / Location&lt;/th>
+&lt;th>Location&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>

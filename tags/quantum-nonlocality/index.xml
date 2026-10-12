@@ -5,7 +5,7 @@
 &lt;tr>
 &lt;th>Date&lt;/th>
 &lt;th>Event&lt;/th>
-&lt;th>Host / Location&lt;/th>
+&lt;th>Location&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
@@ -26,29 +26,8 @@
 &lt;span class="dark:text-neutral-300">&lt;/span>
 &lt;/div> -->
 &lt;div class="talk-multi-venues">
-&lt;style>
-/* Smaller inline footnote refs (beats .prose defaults) */
-.prose .talk-multi-venues sup.footnote-ref,
-.prose .talk-multi-venues sup > a[role="doc-noteref"],
-.prose .talk-multi-venues a[role="doc-noteref"] {
-font-size: 0.70em !important;
-line-height: 1;
-text-decoration: none;
-}
-/* Footnotes list at bottom: smaller + muted */
-.prose .talk-multi-venues section.footnotes,
-.prose .talk-multi-venues .footnotes {
-font-size: 0.80rem !important; /* adjust to taste */
-color: #6b7280; /* gray-500 */
-}
-.prose .talk-multi-venues section.footnotes hr,
-.prose .talk-multi-venues .footnotes hr { display: none; }
-/* tighten just figures you mark with class="tight-cap" */
-.prose figure.tight-cap figcaption { margin-top: .25rem !important; }
-.prose figure.tight-cap figcaption p { margin: .125rem 0 0 0 !important; }
-&lt;/style>
 &lt;p class="text-sm text-gray-500 dark:text-gray-400">
-This talk has been presented at multiple venues. The date above is set to the most recent instance for correct ordering in the Talks list. Materials (slides/poster) are shared with minor venue-specific tweaks.
+This talk has been presented at multiple venues, with minor changes to the slides and poster between presentations.
 &lt;/p>
 &lt;h3 id="talks">Talks&lt;/h3>
 &lt;table>
@@ -56,27 +35,29 @@ This talk has been presented at multiple venues. The date above is set to the mo
 &lt;tr>
 &lt;th>Date&lt;/th>
 &lt;th>Event&lt;/th>
-&lt;th>Host / Location&lt;/th>
+&lt;th>Location&lt;/th>
 &lt;th>Type&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
 &lt;td>2024-09&lt;/td>
-&lt;td>&lt;strong>CausalWorlds&lt;/strong>&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/td>
-&lt;td>Perimeter Institute, Waterloo (CA)&lt;/td>
+&lt;td>&lt;strong>
+&lt;/strong>&lt;/td>
+&lt;td>Waterloo, Canada&lt;/td>
 &lt;td>Contributed&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2023-11&lt;/td>
-&lt;td>&lt;strong>Defi EQIP&lt;/strong>&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/td>
-&lt;td>Inria Lyon, Lyon (FR)&lt;/td>
+&lt;td>&lt;strong>
+&lt;/strong>&lt;/td>
+&lt;td>Lyon, France&lt;/td>
 &lt;td>Contributed&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2023-10&lt;/td>
 &lt;td>&lt;strong>Saclay Quantum Seminar&lt;/strong>&lt;/td>
-&lt;td>Inria Saclay, Palaiseau (FR)&lt;/td>
+&lt;td>Palaiseau, France&lt;/td>
 &lt;td>Invited&lt;/td>
 &lt;/tr>
 &lt;/tbody>
@@ -87,19 +68,21 @@ This talk has been presented at multiple venues. The date above is set to the mo
 &lt;tr>
 &lt;th>Date&lt;/th>
 &lt;th>Event&lt;/th>
-&lt;th>Host / Location&lt;/th>
+&lt;th>Location&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
 &lt;td>2024-11&lt;/td>
-&lt;td>&lt;strong>YQIS24&lt;/strong>&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/td>
-&lt;td>Inria Paris, Paris (FR)&lt;/td>
+&lt;td>&lt;strong>
+&lt;/strong>&lt;/td>
+&lt;td>Paris, France&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2024-11&lt;/td>
-&lt;td>&lt;strong>GDR TeQ 2024&lt;/strong>&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;/td>
-&lt;td>Sorbonne University, Paris (FR)&lt;/td>
+&lt;td>&lt;strong>
+&lt;/strong>&lt;/td>
+&lt;td>Paris, France&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -115,25 +98,4 @@ alt="YQIS24 at Paris, France" width="650">&lt;/a>&lt;figcaption>
 &lt;p>Image credit: &lt;em>YQIS24 at Paris, France&lt;/em>&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
-&lt;/div>
-&lt;div class="footnotes" role="doc-endnotes">
-&lt;hr>
-&lt;ol>
-&lt;li id="fn:1">
-&lt;p>
-&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:2">
-&lt;p>
-&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:3">
-&lt;p>
-&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:4">
-&lt;p>
-&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol>
 &lt;/div></description></item><item><title>Quantum Nonlocality in Bilocal Networks: An Operator Algebraic Perspective</title><link>https://xiangling-xu.github.io/publication/xu-2023-quantum/</link><pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/xu-2023-quantum/</guid><description/></item></channel></rss>
