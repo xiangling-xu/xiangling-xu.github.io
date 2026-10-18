@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quantum Cryptography | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/tags/quantum-cryptography/</link><atom:link href="https://xiangling-xu.github.io/tags/quantum-cryptography/index.xml" rel="self" type="application/rss+xml"/><description>Quantum Cryptography</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/sharing.png</url><title>Quantum Cryptography</title><link>https://xiangling-xu.github.io/tags/quantum-cryptography/</link></image><item><title>Quantitative quantum soundness for all multipartite compiled nonlocal games</title><link>https://xiangling-xu.github.io/publication/baroni-2025-quantitativequantumsoundnessmultipartite/</link><pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/baroni-2025-quantitativequantumsoundnessmultipartite/</guid><description/></item><item><title>Quantitative Quantum Soundness for Bipartite Compiled Bell Games via the Sequential NPA Hierarchy</title><link>https://xiangling-xu.github.io/publication/klep-2025-quantitativequantumsoundnessbipartite/</link><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/klep-2025-quantitativequantumsoundnessbipartite/</guid><description/></item><item><title>Quantitative quantum soundness for compiled nonlocal games and the sequential NPA hierarchy for completely positive maps</title><link>https://xiangling-xu.github.io/conference/compiled-soundness/</link><pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/compiled-soundness/</guid><description>&lt;div class="talk-multi-venues">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quantum Cryptography | Xiangling Xu 许湘灵</title><link>https://xiangling-xu.github.io/tags/quantum-cryptography/</link><atom:link href="https://xiangling-xu.github.io/tags/quantum-cryptography/index.xml" rel="self" type="application/rss+xml"/><description>Quantum Cryptography</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://xiangling-xu.github.io/media/sharing.png</url><title>Quantum Cryptography</title><link>https://xiangling-xu.github.io/tags/quantum-cryptography/</link></image><item><title>Quantitative quantum soundness for all multipartite compiled nonlocal games</title><link>https://xiangling-xu.github.io/publication/baroni-2025-quantitativequantumsoundnessmultipartite/</link><pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/baroni-2025-quantitativequantumsoundnessmultipartite/</guid><description>
+&lt;section id="conference-presentations" class="paper-presentations" aria-labelledby="paper-presentations-heading">
+&lt;h2 id="paper-presentations-heading">Talks and posters&lt;/h2>
+&lt;ul class="paper-presentation-list">
+&lt;li>
+&lt;time datetime="2026-08">2026-08&lt;/time>
+&lt;span class="paper-presentation-event">QCrypt 2026&lt;/span>
+&lt;/li>
+&lt;li>
+&lt;time datetime="2026-08">2026-08&lt;/time>
+&lt;span class="paper-presentation-event">CQCC &amp;amp; GQSF 2026 &lt;span class="paper-presentation-kind">(poster)&lt;/span>&lt;/span>
+&lt;/li>
+&lt;li>
+&lt;time datetime="2026-06">2026-06&lt;/time>
+&lt;span class="paper-presentation-event">SIAM Conference on Optimization (OP26)&lt;/span>
+&lt;/li>
+&lt;li>
+&lt;time datetime="2026-01">2026-01&lt;/time>
+&lt;span class="paper-presentation-event">QIP 2026&lt;/span>
+&lt;/li>
+&lt;li>
+&lt;time datetime="2025-11">2025-11&lt;/time>
+&lt;span class="paper-presentation-event">3rd Colloquium GdR TeQ&lt;/span>
+&lt;/li>
+&lt;li>
+&lt;time datetime="2025-10">2025-10&lt;/time>
+&lt;span class="paper-presentation-event">YQIS25&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/section></description></item><item><title>Quantitative Quantum Soundness for Bipartite Compiled Bell Games via the Sequential NPA Hierarchy</title><link>https://xiangling-xu.github.io/publication/klep-2025-quantitativequantumsoundnessbipartite/</link><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/publication/klep-2025-quantitativequantumsoundnessbipartite/</guid><description>
+&lt;section id="conference-presentations" class="paper-presentations" aria-labelledby="paper-presentations-heading">
+&lt;h2 id="paper-presentations-heading">Talks and posters&lt;/h2>
+&lt;ul class="paper-presentation-list">
+&lt;li>
+&lt;time datetime="2026-06">2026-06&lt;/time>
+&lt;span class="paper-presentation-event">SIAM Conference on Optimization (OP26)&lt;/span>
+&lt;/li>
+&lt;li>
+&lt;time datetime="2026-01">2026-01&lt;/time>
+&lt;span class="paper-presentation-event">QIP 2026&lt;/span>
+&lt;/li>
+&lt;li>
+&lt;time datetime="2025-11">2025-11&lt;/time>
+&lt;span class="paper-presentation-event">3rd Colloquium GdR TeQ&lt;/span>
+&lt;/li>
+&lt;li>
+&lt;time datetime="2025-07">2025-07&lt;/time>
+&lt;span class="paper-presentation-event">IWOTA 2025&lt;/span>
+&lt;/li>
+&lt;li>
+&lt;time datetime="2025-06">2025-06&lt;/time>
+&lt;span class="paper-presentation-event">IQC–PCQT–Quantum Saclay Workshop&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/section></description></item><item><title>Quantitative quantum soundness for compiled nonlocal games and the sequential NPA hierarchy for completely positive maps</title><link>https://xiangling-xu.github.io/conference/compiled-soundness/</link><pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><guid>https://xiangling-xu.github.io/conference/compiled-soundness/</guid><description>&lt;div class="talk-multi-venues">
 &lt;p class="text-sm text-gray-500 dark:text-gray-400">
 These presentations cover the bipartite and multipartite results. The compiled-games slides introduce the cryptographic setting for a quantum-information audience; the sequential-NPA slides focus on the hierarchy and optimization methods.
 &lt;/p>
