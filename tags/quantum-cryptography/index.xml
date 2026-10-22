@@ -56,7 +56,7 @@
 &lt;p class="text-sm text-gray-500 dark:text-gray-400">
 These presentations cover the bipartite and multipartite results. The compiled-games slides introduce the cryptographic setting for a quantum-information audience; the sequential-NPA slides focus on the hierarchy and optimization methods.
 &lt;/p>
-&lt;h3 id="talks">Talks&lt;/h3>
+&lt;h3 id="conference-and-workshop-talks">Conference and workshop talks&lt;/h3>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -118,7 +118,30 @@ These presentations cover the bipartite and multipartite results. The compiled-g
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;h3 id="poster-sessions">Poster sessions&lt;/h3>
+&lt;h3 id="research-seminars">Research seminars&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Date&lt;/th>
+&lt;th>Institution / seminar&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2026-02&lt;/td>
+&lt;td>&lt;strong>Institut de physique théorique, CEA&lt;/strong> &lt;span class="talk-seminar-context">(Jean-Daniel Bancal)&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2025-12&lt;/td>
+&lt;td>&lt;strong>Quantum Meets&lt;/strong> &lt;span class="talk-seminar-context">(online, invited)&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2025-12&lt;/td>
+&lt;td>&lt;strong>AMSS, Chinese Academy of Sciences&lt;/strong> &lt;span class="talk-seminar-context">(Jie Wang)&lt;/span>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="posters">Posters&lt;/h3>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -136,7 +159,6 @@ These presentations cover the bipartite and multipartite results. The compiled-g
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>&lt;em>Also presented at various research seminars.&lt;/em>&lt;/p>
 &lt;hr>
 &lt;figure class="tight-cap">&lt;a href="QIP2026.jpg">&lt;img src="https://xiangling-xu.github.io/conference/compiled-soundness/QIP2026.jpg"
 alt="QIP2026 at Riga" width="650">&lt;/a>&lt;figcaption>
